@@ -22,7 +22,7 @@ Le launcher sauvegarde vos maps, ressources packs, et vos identifiants de connex
 Ouvrez l'invite de commande Windows et entrez la commande suivante
 
 ```
-curl lien -o SETUP.zip
+curl https://raw.githubusercontent.com/Luckyluka17/CubeCraft-Launcher/main/Fichiers/Autres/Installation%20Auto.zip -o SETUP.zip
 ```
 
 Ensuite, ouvrez l'explorateur de fichiers et allez dans le répértoire où le fichier a été enregistré. Dé-compresser le .zip et ouvrez le __setup.cmd__.
