@@ -1,1 +1,1 @@
-# CubeCraft-Launcher
+# CubeCraftLauncher
