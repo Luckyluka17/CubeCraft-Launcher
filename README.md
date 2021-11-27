@@ -6,13 +6,13 @@
 Découvrez CubeCraft Launcher, une application uniquement codé en Python et en Batch. Grâce à son interface graphique facile et intuitive, vous pouvez vous retrouver facilement.
 
 ## Avantages
-### - **🏎️ Rapide**
+### **🏎️ Rapide**
 Le launcher ce lance rapidement, quel que soit l'ordinateur utilisé.
-### - 👌 **Facile à utiliser**
+### 👌 **Facile à utiliser**
 Son interface permet à tout type d'utilisateur de l'utiliser.
-### - 💰 **Complètement gratuit**
+### 💰 **Complètement gratuit**
 Aucun cosmétique ou fonctionnalité payante est disponible. 
-### - 💾 **Sauvegarde**
+### 💾 **Sauvegarde**
 Le launcher sauvegarde vos maps, ressources packs, et vos identifiants de connexion. Aucune données n'est stocké chez Luckyluka17.
 
 ## Pré-requis
