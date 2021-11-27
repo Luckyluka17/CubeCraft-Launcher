@@ -22,10 +22,10 @@ Le launcher sauvegarde vos maps, ressources packs, et vos identifiants de connex
 Ouvrez l'invite de commande Windows et entrez la commande suivante
 
 ```
-curl lien -o SETUP.cmd
+curl lien -o SETUP.zip
 ```
 
-Ensuite, ouvrez l'explorateur de fichiers et allez dans le répértoire où le fichier a été enregistré.
+Ensuite, ouvrez l'explorateur de fichiers et allez dans le répértoire où le fichier a été enregistré. Dé-compresser le .zip et ouvrez le __setup.cmd__.
 
 ## Installation manuelle
 Tout d'abord installez Python sur [https://www.python.org/downloads/](https://www.python.org/downloads/) et installez le setup. Une fois que cela est fait, installez le .zip sur ce [lien](https://raw.githubusercontent.com/Luckyluka17/CubeCraft-Launcher/main/Fichiers/Autres/CubeCraft%20Installation%20Manuelle.zip).
