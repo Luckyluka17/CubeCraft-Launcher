@@ -22,7 +22,7 @@ Le launcher sauvegarde vos maps, ressources packs, et vos identifiants de connex
 Ouvrez l'invite de commande Windows et entrez la commande suivante
 
 ```
-curl https://git.com -o SETUP.zip
+curl lien -o SETUP.cmd
 ```
 
 Ensuite, ouvrez l'explorateur de fichiers et allez dans le répértoire où le fichier a été enregistré.
