@@ -1,7 +1,9 @@
+import os
+os.system('title Lanceur Minecraft')
+print("Veuillez patientez...")
 import minecraft_launcher_lib
 import subprocess
 import sys
-import os
 
 e_mail = open("pseudo.ini","r")
 motdepasse = open("password.ini","r")

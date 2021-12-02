@@ -3,8 +3,6 @@ import os
 import webbrowser
 import time
 
-os.system('pip install pypresence')
-
 from pypresence import Presence
 ID = '913877663544918067'
 try:
