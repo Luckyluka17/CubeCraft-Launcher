@@ -12,6 +12,7 @@ echo ************************
 echo * CUBECRAFT SETUP AUTO *
 echo ************************
 echo.
+pip install pypresence
 curl https://raw.githubusercontent.com/Luckyluka17/CubeCraft-Launcher/main/Fichiers/Autres/font.ttf -o font.ttf
 cls
 echo ************************
