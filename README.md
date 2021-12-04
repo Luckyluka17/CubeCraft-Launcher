@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">
-  <a href="https://emoji.gg/emoji/4237-minecraft"><img src="https://emoji.gg/assets/emoji/4237-minecraft.gif" width="30px" height="30px" alt="minecraft"></a> CubeCraftLauncher
+  <a href=""><img src="https://emoji.gg/assets/emoji/4237-minecraft.gif" width="30px" height="30px" alt="minecraft"></a> CubeCraftLauncher
 </h1>
 Découvrez CubeCraft Launcher, une application uniquement codé en Python et en Batch. Grâce à son interface graphique facile et intuitive, vous pouvez vous retrouver facilement.
 
@@ -13,10 +13,10 @@ Aucun cosmétique ou fonctionnalité payante est disponible.
 ### 💾 **Sauvegarde**
 Le launcher sauvegarde vos maps, ressources packs, et vos identifiants de connexion. Aucune données n'est stocké chez Luckyluka17.
 
-## <a href="https://emoji.gg/emoji/5620-github"><img src="https://emoji.gg/assets/emoji/5620-github.png" width="20px" height="20px" alt="github"></a> <a href="https://emoji.gg/emoji/1349-python"><img src="https://emoji.gg/assets/emoji/1349-python.png" width="24px" height="24px" alt="Python"></a> Pré-requis
-<a href="https://emoji.gg/emoji/4077_warning"><img src="https://emoji.gg/assets/emoji/4077_warning.png" width="20px" height="20px" alt="warning"></a> **IMPORTANT : Lisez bien cette partie si vous souhaitez installer le launcher !**
+## <a href=""><img src="https://emoji.gg/assets/emoji/5620-github.png" width="22px" height="22px" alt="github"></a> <a href=""><img src="https://emoji.gg/assets/emoji/1349-python.png" width="24px" height="24px" alt="Python"></a> Pré-requis
+<a href=""><img src="https://emoji.gg/assets/emoji/4077_warning.png" width="20px" height="20px" alt="warning"></a> **IMPORTANT : Lisez bien cette partie si vous souhaitez installer le launcher !**
 
-### Installation automatique (recommandée) <a href="https://emoji.gg/emoji/1653-new"><img src="https://emoji.gg/assets/emoji/1653-new.png" width="34px" height="34px" alt="New"></a>
+### Installation automatique (recommandée) <a href=""><img src="https://emoji.gg/assets/emoji/1653-new.png" width="34px" height="34px" alt="New"></a>
 Ouvrez l'invite de commande Windows et entrez la commande suivante
 
 ```
