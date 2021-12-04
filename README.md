@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="700" src="https://zupimages.net/up/21/47/lgiy.png" alt="Bannière">
-</p>
-
 <h1 style="text-align: center;">
   <a href="https://emoji.gg/emoji/4237-minecraft"><img src="https://emoji.gg/assets/emoji/4237-minecraft.gif" width="30px" height="30px" alt="minecraft"></a> CubeCraftLauncher
 </h1>
