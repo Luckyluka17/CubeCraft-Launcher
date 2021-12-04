@@ -18,7 +18,7 @@ Le launcher sauvegarde vos maps, ressources packs, et vos identifiants de connex
 ## <a href="https://emoji.gg/emoji/1349-python"><img src="https://emoji.gg/assets/emoji/1349-python.png" width="24px" height="24px" alt="Python"></a> Pré-requis
 <a href="https://emoji.gg/emoji/4077_warning"><img src="https://emoji.gg/assets/emoji/4077_warning.png" width="20px" height="20px" alt="warning"></a> **IMPORTANT : Lisez bien cette partie si vous souhaitez installer le launcher !**
 
-### Installation automatique (recommandée)
+### Installation automatique (recommandée) <a href="https://emoji.gg/emoji/1653-new"><img src="https://emoji.gg/assets/emoji/1653-new.png" width="14px" height="14px" alt="New"></a>
 Ouvrez l'invite de commande Windows et entrez la commande suivante
 
 ```
