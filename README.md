@@ -16,7 +16,7 @@ Aucun cosmétique ou fonctionnalité payante est disponible.
 Le launcher sauvegarde vos maps, ressources packs, et vos identifiants de connexion. Aucune données n'est stocké chez Luckyluka17.
 
 ## Pré-requis
-**⚠️ IMPORTANT : Lisez bien cette partie si vous souhaitez installer le launcher !**
+[![exclamationred](https://emoji.gg/assets/emoji/7732-exclamationred.gif)](https://emoji.gg/emoji/7732-exclamationred)** IMPORTANT : Lisez bien cette partie si vous souhaitez installer le launcher !**
 
 ### Installation automatique (recommandée)
 Ouvrez l'invite de commande Windows et entrez la commande suivante
