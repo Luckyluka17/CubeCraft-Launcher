@@ -2,7 +2,7 @@
   <img width="700" src="https://zupimages.net/up/21/47/lgiy.png" alt="Bannière">
 </p>
 
-# CubeCraftLauncher
+# [![minecraft](https://emoji.gg/assets/emoji/4237-minecraft.gif)](https://emoji.gg/emoji/4237-minecraft) CubeCraftLauncher
 Découvrez CubeCraft Launcher, une application uniquement codé en Python et en Batch. Grâce à son interface graphique facile et intuitive, vous pouvez vous retrouver facilement.
 
 ## Avantages
