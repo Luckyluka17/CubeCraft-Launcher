@@ -15,7 +15,7 @@ Aucun cosmétique ou fonctionnalité payante est disponible.
 ### 💾 **Sauvegarde**
 Le launcher sauvegarde vos maps, ressources packs, et vos identifiants de connexion. Aucune données n'est stocké chez Luckyluka17.
 
-## Pré-requis
+## <a href="https://emoji.gg/emoji/1349-python"><img src="https://emoji.gg/assets/emoji/1349-python.png" width="24px" height="24px" alt="Python"></a> Pré-requis
 <a href="https://emoji.gg/emoji/4077_warning"><img src="https://emoji.gg/assets/emoji/4077_warning.png" width="20px" height="20px" alt="warning"></a> **IMPORTANT : Lisez bien cette partie si vous souhaitez installer le launcher !**
 
 ### Installation automatique (recommandée)
