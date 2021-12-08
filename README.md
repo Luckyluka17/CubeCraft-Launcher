@@ -16,18 +16,4 @@ Le launcher sauvegarde vos maps, ressources packs, et vos identifiants de connex
 ## <a href=""><img src="https://emoji.gg/assets/emoji/5620-github.png" width="22px" height="22px" alt="github"></a> <a href=""><img src="https://emoji.gg/assets/emoji/1349-python.png" width="24px" height="24px" alt="Python"></a> Pré-requis
 <a href=""><img src="https://emoji.gg/assets/emoji/4077_warning.png" width="20px" height="20px" alt="warning"></a> **IMPORTANT : Lisez bien cette partie si vous souhaitez installer le launcher !**
 
-### Installation automatique (recommandée) <a href=""><img src="https://emoji.gg/assets/emoji/1653-new.png" width="34px" height="34px" alt="New"></a>
-Ouvrez l'invite de commande Windows et entrez la commande suivante
-
-```
-curl https://raw.githubusercontent.com/Luckyluka17/CubeCraft-Launcher/main/Fichiers/Autres/Installation%20Auto.zip -o SETUP.zip
-```
-
-Ensuite, ouvrez l'explorateur de fichiers et allez dans le répértoire où le fichier a été enregistré. Dé-compresser le .zip et ouvrez le __setup.cmd__.
-
-### Installation manuelle
-Tout d'abord installez Python sur [https://www.python.org/downloads/](https://www.python.org/downloads/) et installez le setup. Une fois que cela est fait, installez le .zip sur ce [lien](https://raw.githubusercontent.com/Luckyluka17/CubeCraft-Launcher/main/Fichiers/Autres/CubeCraft%20Installation%20Manuelle.zip).
-
-Ouvrez ensuite le font.ttf (qui est la police d'écriture installé dans le launcher) et ouvrez le setup de python. Cliquez sur install, puis **CLIQUEZ SUR ADD PYTHON 3.10 TO PATH** (c'est très important). Une fois cela fait, ouvrez le SETUP dans le fichier zip où ce trouvait le font.ttf .
-
-Et voilà ! Profitez maintenant du launcher !
+### [Voir comment l'installer à l'aide du wiki](https://luckyluka-17.gitbook.io/cubecraft-launcher/configuration/installation-du-launcher) <a href=""><img src="https://emoji.gg/assets/emoji/1653-new.png" width="34px" height="34px" alt="New"></a>
