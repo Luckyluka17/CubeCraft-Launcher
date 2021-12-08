@@ -13,7 +13,6 @@ Aucun cosmétique ou fonctionnalité payante est disponible.
 ### 💾 **Sauvegarde**
 Le launcher sauvegarde vos maps, ressources packs, et vos identifiants de connexion. Aucune données n'est stocké chez Luckyluka17.
 
-## <a href=""><img src="https://emoji.gg/assets/emoji/5620-github.png" width="22px" height="22px" alt="github"></a> <a href=""><img src="https://emoji.gg/assets/emoji/1349-python.png" width="24px" height="24px" alt="Python"></a> Pré-requis
-<a href=""><img src="https://emoji.gg/assets/emoji/4077_warning.png" width="20px" height="20px" alt="warning"></a> **IMPORTANT : Lisez bien cette partie si vous souhaitez installer le launcher !**
+## <a href="https://emoji.gg/emoji/8833-download-discord"><img src="https://emoji.gg/assets/emoji/8833-download-discord.png" width="24px" height="24px" alt="download_discord"></a> **IMPORTANT : Lisez bien cette partie si vous souhaitez installer le launcher !**
 
 ### [Voir comment l'installer à l'aide du wiki](https://luckyluka-17.gitbook.io/cubecraft-launcher/configuration/installation-du-launcher) <a href=""><img src="https://emoji.gg/assets/emoji/1653-new.png" width="34px" height="34px" alt="New"></a>
