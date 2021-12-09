@@ -1,7 +1,7 @@
 # Table of contents
 
-* [🗒️ Changelog](README.md)
-* [👋 Introduction](introduction.md)
+* [👋 Introduction](README.md)
+* [🗒️ Changelog](<README (1).md>)
 
 ## ⚡ Configuration
 
@@ -16,3 +16,7 @@
 
 * [📩 Discord](https://discord.gg/yxPCSVJSgw)
 * [🌐 Site](https://sites.google.com/view/luckyluka17/accueil)
+
+***
+
+* [😺 Github](https://github.com/Luckyluka17/CubeCraft-Launcher)
