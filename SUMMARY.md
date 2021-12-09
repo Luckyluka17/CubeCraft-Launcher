@@ -16,7 +16,4 @@
 
 * [📩 Discord](https://discord.gg/yxPCSVJSgw)
 * [🌐 Site](https://sites.google.com/view/luckyluka17/accueil)
-
-***
-
 * [😺 Github](https://github.com/Luckyluka17/CubeCraft-Launcher)
