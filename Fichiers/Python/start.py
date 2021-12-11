@@ -16,7 +16,7 @@ def center_window(width=300, height=200):
     window.geometry('%dx%d+%d+%d' % (width, height, x, y))
 
 def loading():
-    os.system('start launcher.pyw')
+    os.system('start launcher.py')
     window.destroy()
 
 

@@ -19,7 +19,7 @@ except:
 
 
 def settings():
-    os.system("start settings.pyw")
+    os.system("start settings.py")
 
 def site():
     webbrowser.open("https://sites.google.com/view/luckyluka17/projets/projets-actuels/cubecraft-launcher")

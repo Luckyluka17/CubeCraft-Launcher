@@ -2,15 +2,15 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "CubeCraft Launcher"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.0.1"
 #define MyAppPublisher "Luckyluka17"
-#define MyAppURL "https://sites.google.com/view/luckyluka17/projets/projets-actuels/cubecraft-launcher"
-#define MyAppExeName "app.exe"
+#define MyAppURL "https://sites.google.com/view/luckyluka17/accueil"
+#define MyAppExeName "start.exe"
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
-AppId={{47BB9884-69AA-42C2-9A4B-FCE1D5ACA5C4}
+AppId={{32F38F54-DDA3-4BD3-8144-927EEA9B235A}
 AppName={#MyAppName}
 AppVersion={#MyAppVersion}
 ;AppVerName={#MyAppName} {#MyAppVersion}
@@ -18,12 +18,12 @@ AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
 AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
-DefaultDirName={autopf}\{#MyAppName}
+DefaultDirName={#MyAppName}
 DisableProgramGroupPage=yes
 ; Uncomment the following line to run in non administrative install mode (install for current user only.)
 ;PrivilegesRequired=lowest
 OutputBaseFilename=CubeCraft SETUP
-SetupIconFile=D:\Docs de Luka\Développement\Launcher MC\icon.ico
+SetupIconFile=C:\Users\Manu\OneDrive\Bureau\CubeCraft Launcher\icon.ico
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
@@ -35,17 +35,18 @@ Name: "french"; MessagesFile: "compiler:Languages\French.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "D:\Docs de Luka\Développement\Launcher MC\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Docs de Luka\Développement\Launcher MC\background.png"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Docs de Luka\Développement\Launcher MC\icon.ico"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Docs de Luka\Développement\Launcher MC\icon.png"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Docs de Luka\Développement\Launcher MC\launcher.png"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Docs de Luka\Développement\Launcher MC\launcher.pyw"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Docs de Luka\Développement\Launcher MC\main.py"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Docs de Luka\Développement\Launcher MC\password.ini"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Docs de Luka\Développement\Launcher MC\pseudo.ini"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Docs de Luka\Développement\Launcher MC\settings.pyw"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\Docs de Luka\Développement\Launcher MC\start.pyw"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Manu\OneDrive\Bureau\CubeCraft Launcher\{#MyAppExeName}"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Manu\OneDrive\Bureau\CubeCraft Launcher\background.png"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Manu\OneDrive\Bureau\CubeCraft Launcher\icon.ico"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Manu\OneDrive\Bureau\CubeCraft Launcher\icon.png"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Manu\OneDrive\Bureau\CubeCraft Launcher\icon2.ico"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Manu\OneDrive\Bureau\CubeCraft Launcher\launcher.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Manu\OneDrive\Bureau\CubeCraft Launcher\launcher.png"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Manu\OneDrive\Bureau\CubeCraft Launcher\main.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Manu\OneDrive\Bureau\CubeCraft Launcher\password.ini"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Manu\OneDrive\Bureau\CubeCraft Launcher\pseudo.ini"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Manu\OneDrive\Bureau\CubeCraft Launcher\settings.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Manu\OneDrive\Bureau\CubeCraft Launcher\start.exe"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]

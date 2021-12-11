@@ -1,4 +1,4 @@
 import os
 
-os.system('start start.pyw')
+os.system('start start.py')
 os.system('exit')
