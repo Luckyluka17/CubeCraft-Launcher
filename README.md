@@ -14,6 +14,14 @@ Serveur discord du launcher
 
 Nouveau sur la plateforme ? Pas de soucis, nous vous proposons des articles ici afin que vous puissiez comprendre comment fonctionne le logiciel et comment le prendre en main.
 
+{% content-ref url="configuration/installation-du-launcher.md" %}
+[installation-du-launcher.md](configuration/installation-du-launcher.md)
+{% endcontent-ref %}
+
+{% content-ref url="configuration/connexion-a-son-compte-mc.md" %}
+[connexion-a-son-compte-mc.md](configuration/connexion-a-son-compte-mc.md)
+{% endcontent-ref %}
+
 ## Le projet
 
 CubeCraft Launcher est un launcher pour [minecraft](https://www.minecraft.net/fr-fr), créé par [Luckyluka17](https://linktr.ee/luckyluka17), entièrement gratuit et open source. Vous allez pouvoir jouer, rapidement et facilement.&#x20;
