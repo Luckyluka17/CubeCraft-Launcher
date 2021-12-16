@@ -33,7 +33,7 @@ def apply():
         notification.notify(
         title = "CubeCraft Launcher",
         message = "Vos paramères ont été enregistrés",
-        app_icon = "icon2",
+        app_icon = "icon4",
         timeout = 5,
         )
         os.system('exit')
@@ -42,7 +42,7 @@ def apply():
         notification.notify(
         title = "CubeCraft Launcher",
         message = "Erreur lors de l'enregistrement des paramètres",
-        app_icon = "icon2",
+        app_icon = "icon5",
         timeout = 5,
         )
         os.system('exit')
