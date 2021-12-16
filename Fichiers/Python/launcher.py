@@ -2,20 +2,33 @@ from tkinter import *
 import os
 import webbrowser
 import time
+from plyer import notification
 
-from pypresence import Presence
-ID = '913877663544918067'
-try:
-    RPC = Presence(ID)
-    RPC.connect()
-    RPC.update(
-        state="Dev par Luckyluka17",
-        details="CubeCraft v1.0",
-        large_image="image",
-        large_text="CubeCraft Launcher"
-    )
-except:
-    print("Discord n'est pas ouvert")
+a5 = open("check3.ini","r")
+
+if a5.read() == "0":
+    print("RPC activé")
+    from pypresence import Presence
+    ID = '913877663544918067'
+    try:
+        RPC = Presence(ID)
+        RPC.connect()
+        RPC.update(
+            state="Dev par Luckyluka17",
+            details="CubeCraft v1.0",
+            large_image="image",
+            large_text="CubeCraft Launcher"
+        )
+        notification.notify(
+        title = "CubeCraft Launcher",
+        message = "Rich Presence Discord activé !",
+        app_icon = "icon3",
+        timeout = 5,
+        )
+    except:
+        print("Discord n'est pas ouvert")
+else:
+    print("RPC désactivé")
 
 
 def settings():

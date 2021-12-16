@@ -1,34 +1,52 @@
 from tkinter import *
 import os
+from plyer import notification
 
 def apply():
-    pseudo = username.get()
-    fichier1 = open("pseudo.ini","w")
-    fichier1.write(pseudo)
-    fichier1.close()
-    password = mdp.get()
-    fichier2 = open("password.ini", "w")
-    fichier2.write(password)
-    fichier2.close()
-    lch1 = chck1.get()
-    fichier3 = open("check1.ini", "w")
-    fichier3.write(str(lch1))
-    fichier3.close()
-    fichier4 = open("check2.ini", "w")
-    lch2 = chck2.get()
-    fichier4.write(str(lch2))
-    fichier4.close()
-    lch3 = chck3.get()
-    fichier5 = open("check3.ini", "w")
-    fichier5.write(str(lch3))
-    fichier5.close()
-    a1.close()
-    a2.close()
-    a3.close()
-    a4.close()
-    a5.close()
-    os.system('exit')
-    window1.destroy()
+    try:
+        pseudo = username.get()
+        fichier1 = open("pseudo.ini","w")
+        fichier1.write(pseudo)
+        fichier1.close()
+        password = mdp.get()
+        fichier2 = open("password.ini", "w")
+        fichier2.write(password)
+        fichier2.close()
+        lch1 = chck1.get()
+        fichier3 = open("check1.ini", "w")
+        fichier3.write(str(lch1))
+        fichier3.close()
+        fichier4 = open("check2.ini", "w")
+        lch2 = chck2.get()
+        fichier4.write(str(lch2))
+        fichier4.close()
+        lch3 = chck3.get()
+        fichier5 = open("check3.ini", "w")
+        fichier5.write(str(lch3))
+        fichier5.close()
+        a1.close()
+        a2.close()
+        a3.close()
+        a4.close()
+        a5.close()
+
+        notification.notify(
+        title = "CubeCraft Launcher",
+        message = "Vos paramères ont été enregistrés",
+        app_icon = "icon2",
+        timeout = 5,
+        )
+        os.system('exit')
+        window1.destroy()
+    except:
+        notification.notify(
+        title = "CubeCraft Launcher",
+        message = "Erreur lors de l'enregistrement des paramètres",
+        app_icon = "icon2",
+        timeout = 5,
+        )
+        os.system('exit')
+        window1.destroy()
 
 window1 = Tk()
 window1.title("Settings")
@@ -55,7 +73,7 @@ check1.pack()
 Label(window1, text="Minecraft", font=("Comic sans MS", 17)).pack()
 check2 = Checkbutton(text="Jouer sur la dernière version", font=("Comic sans MS", 12), variable=chck2, onvalue=1, offvalue=0)
 check2.pack()
-check3 = Checkbutton(text="Activer Download Booster (beta)", font=("Comic sans MS", 12), variable=chck3, onvalue=1, offvalue=0)
+check3 = Checkbutton(text="Activer RPC Discord", font=("Comic sans MS", 12), variable=chck3, onvalue=1, offvalue=0)
 check3.pack()
 
 a1 = open("password.ini","r")
