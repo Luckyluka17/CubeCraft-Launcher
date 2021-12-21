@@ -10,11 +10,11 @@ Si vous avez besoin d'aide, n'hésitez pas à rejoindre le serveur Discord afin 
 
 Télécharger le launcher avec le lien ci dessous. Une fois ceci fait ouvrez le.
 
-{% embed url="https://raw.githubusercontent.com/Luckyluka17/CubeCraft-Launcher/main/Fichiers/Autres/CubeCraft%20SETUP.exe" %}
+{% hint style="danger" %}
+Vous devez installer cette [application](https://itch.io/app) avant de l'installer !
+{% endhint %}
 
-Cliquez sur j'accepte la license, et choisissez l'endroit où vous souhaitez l'installer.
-
-Et voilà ! Le launcher est maintenant installé !
+{% embed url="https://luckyluka17.itch.io/cubecraft-launcher" %}
 
 ## Bonus : Installation de la police d'écriture (recommandé)
 
