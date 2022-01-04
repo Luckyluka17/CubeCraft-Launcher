@@ -17,4 +17,4 @@ Le launcher sauvegarde vos maps, ressources packs, et vos identifiants de connex
 <a href=""><img src="https://emoji.gg/assets/emoji/4077_warning.png" width="20px" height="20px" alt="warning"></a> **IMPORTANT : Lisez bien cette partie si vous souhaitez installer le launcher !**
 
 ### [Voir comment l'installer à l'aide du wiki](https://luckyluka-17.gitbook.io/cubecraft-launcher/configuration/installation-du-launcher)
-### [L'installer à partir de l'onglet releases](https://github.com/Luckyluka17/CubeCraft-Launcher/releases) <a href=""><img src="https://emoji.gg/assets/emoji/1653-new.png" width="34px" height="34px" alt="New"></a>
+### [Installer avec Itch.io](https://luckyluka17.itch.io/cubecraft-launcher) <a href=""><img src="https://emoji.gg/assets/emoji/1653-new.png" width="34px" height="34px" alt="New"></a>
