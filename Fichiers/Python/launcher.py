@@ -6,7 +6,7 @@ from plyer import notification
 
 a5 = open("check3.ini","r")
 
-if a5.read() == "0":
+if a5.read() == "1":
     print("RPC activé")
     from pypresence import Presence
     ID = '913877663544918067'
@@ -22,7 +22,7 @@ if a5.read() == "0":
         notification.notify(
         title = "CubeCraft Launcher",
         message = "Rich Presence Discord activé !",
-        app_icon = "icon3",
+        app_icon = "icon3.ico",
         timeout = 5,
         )
     except:
