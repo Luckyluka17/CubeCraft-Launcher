@@ -18,4 +18,3 @@
 * [🌐 Site](https://sites.google.com/view/luckyluka17/accueil)
 * [😺 Github](https://github.com/Luckyluka17/CubeCraft-Launcher)
 * [📥 Télécharger le Launcher](https://luckyluka17.itch.io/cubecraft-launcher)
-* [🎮 Installer Itch.io](https://itch.io/app)

@@ -11,10 +11,46 @@ Si vous avez besoin d'aide, n'hésitez pas à rejoindre le serveur Discord afin 
 Télécharger le launcher avec le lien ci dessous. Une fois ceci fait ouvrez le.
 
 {% hint style="danger" %}
-Vous devez installer cette [application](https://itch.io/app) avant de l'installer !
+Vous devez installer Python et les librairies requises avant d'installer le launcher !
 {% endhint %}
 
-{% embed url="https://luckyluka17.itch.io/cubecraft-launcher" %}
+### Librairies
+
+{% hint style="warning" %}
+Les librairies ne peuvent être installés uniquement après l'installation de Python.
+{% endhint %}
+
+{% tabs %}
+{% tab title="Plyer" %}
+### Librairie Plyer
+
+Elle permet au launcher d'envoyer des notifications sur votre ordinateur.
+
+
+
+```powershell
+pip install plyer
+```
+{% endtab %}
+
+{% tab title="Minecraft lib" %}
+### Librairie Minecraft Lib
+
+Permet au launcher d'accéder au fichiers de minecraft, de vous télécharger la dernière version et de vérifier vos identifiants.&#x20;
+
+```
+pip install minecraft-launcher-lib
+```
+{% endtab %}
+{% endtabs %}
+
+Les autres librairies utilisés dans le projet ne nécessite pas d'une installation.
+
+### Fichiers du launcher
+
+{% content-ref url="installation-du-launcher.md" %}
+[installation-du-launcher.md](installation-du-launcher.md)
+{% endcontent-ref %}
 
 ## Bonus : Installation de la police d'écriture (recommandé)
 
