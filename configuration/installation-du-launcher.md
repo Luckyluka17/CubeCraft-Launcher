@@ -46,11 +46,9 @@ pip install minecraft-launcher-lib
 
 Les autres librairies utilisés dans le projet ne nécessite pas d'une installation.
 
-### Fichiers du launcher
+### Télécharger les fichiers du launcher
 
-{% content-ref url="installation-du-launcher.md" %}
-[installation-du-launcher.md](installation-du-launcher.md)
-{% endcontent-ref %}
+{% embed url="https://github.com/Luckyluka17/CubeCraft-Launcher/releases" %}
 
 ## Bonus : Installation de la police d'écriture (recommandé)
 
