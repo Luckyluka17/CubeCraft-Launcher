@@ -26,4 +26,5 @@ Ouvrez le fichier Python.exe et installez le.
 ```
 pip install plyer
 pip install minecraft-launcher-lib
+pip install pypresence
 ```
