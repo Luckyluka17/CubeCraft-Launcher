@@ -3,7 +3,7 @@ import os
 import webbrowser
 import time
 from plyer import notification
-from tkinter.messagebox import showinfo
+from tkinter import messagebox
 
 window2 = Tk()
 
@@ -21,11 +21,11 @@ def center_window2(width=300, height=200):
 
 def loading():
     def site():
-        webbrowser.open("https://sites.google.com/view/luckyluka17/projets/projets-actuels/cubecraft-launcher")
+        webbrowser.open("https://www.luckyluka17.tk/")
 
 
     def mc_launch():
-        os.system("start main.exe")
+        os.system("start main.py")
 
     def settings():
 
@@ -40,7 +40,7 @@ def loading():
                 f.write(username.get())
                 f.close()
                 
-            os.system("start launcher.py")
+            messagebox.showinfo("Paramètres appliqués", "Veuillez relancer le launcher pour appliquer vos paramètres.")
             window1.destroy()
 
         window1 = Tk()
