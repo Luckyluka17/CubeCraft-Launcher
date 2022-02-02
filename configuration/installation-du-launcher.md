@@ -42,11 +42,29 @@ Permet au launcher d'accéder au fichiers de minecraft, de vous télécharger la
 pip install minecraft-launcher-lib
 ```
 {% endtab %}
+
+{% tab title="PyPresence" %}
+### PyPresence
+
+Permet de gérer et d'activer la Rich Presence sur Discord.
+
+```
+pip install pypresence
+```
+{% endtab %}
 {% endtabs %}
 
 Les autres librairies utilisés dans le projet ne nécessite pas d'une installation.
 
 ### Télécharger les fichiers du launcher
+
+#### Depuis l'invite de commande Windows
+
+```batch
+curl https://www.python.org/ftp/python/3.10.1/python-3.10.1-amd64.exe -o python.exe
+```
+
+#### Depuis Github
 
 {% embed url="https://github.com/Luckyluka17/CubeCraft-Launcher/releases" %}
 
