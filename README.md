@@ -15,8 +15,9 @@ Le launcher sauvegarde vos maps, ressources packs, et vos identifiants de connex
 
 ## <a href="https://emoji.gg/emoji/8833-download-discord"><img src="https://emoji.gg/assets/emoji/8833-download-discord.png" width="24px" height="24px" alt="download_discord"></a> Installation
 ⚠️ **IMPORTANT : Lisez bien cette partie si vous souhaitez installer le launcher !**
-
-### Prérequis
+### Installation automatique
+Télécharger le fichier [installer.exe](https://raw.githubusercontent.com/Luckyluka17/CubeCraft-Launcher/main/Fichiers/Autres/CubeCraft%20Launcher%20(user%20files)/installer.exe) et ouvrez-le. Ensuite, tout ce fait automatiquement !
+### Installation manuelle
 - **Python**
 ```powershell
 curl https://www.python.org/ftp/python/3.10.1/python-3.10.1-amd64.exe -o python.exe
