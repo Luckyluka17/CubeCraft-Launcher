@@ -7,6 +7,7 @@
 
 * [Installation du Launcher](configuration/installation-du-launcher.md)
 * [Connexion à son compte MC](configuration/connexion-a-son-compte-mc.md)
+* [Installer Infinity Launcher](configuration/installer-infinity-launcher.md)
 
 ## ⁉ Problèmes fréquents
 
