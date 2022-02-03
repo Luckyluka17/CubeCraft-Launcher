@@ -2,7 +2,13 @@
 description: Ici, vous allez trouver les informations de version du launcher
 ---
 
-# 🗒️ Changelog
+# Changelog
+
+## Version 1.0.3
+
+* Correction de bugs
+* Optimisation du code
+* Installateur modifié (plus simple, plus rapide), il installe Python (et les modules) tout seul
 
 ## Version 1.0.2
 

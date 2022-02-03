@@ -1,4 +1,4 @@
-# 📥 Installation du Launcher
+# Installation du Launcher
 
 Pour l'instant, le launcher ne s'installe pas directement et a besoin de prérequis. Cette page a été réalisé dans le but de pouvoir vous montrer comment installer le launcher.
 
@@ -6,7 +6,21 @@ Pour l'instant, le launcher ne s'installe pas directement et a besoin de préreq
 Si vous avez besoin d'aide, n'hésitez pas à rejoindre le serveur Discord afin de faire parvenir votre problème ou vos questions.
 {% endhint %}
 
-## Installation du Launcher
+
+
+## Installation automatique (recommandé)
+
+{% hint style="info" %}
+Depuis la version 1.0.3, il est plus simple d'installer le launcher manuellement. Vous pouvez toujours l'installer manuellement mais c'est déconseillé.
+{% endhint %}
+
+Téléchargez le fichier ci dessous, puis ouvrez le. Ensuite, vous devez le laisser installer tout ce qu'il faut. Ne vous inquiétez pas si plusieurs fenêtres de terminal s'ouvrent, il installe les modules.
+
+{% embed url="https://raw.githubusercontent.com/Luckyluka17/CubeCraft-Launcher/main/Fichiers/Autres/CubeCraft%20Launcher%20(user%20files)/installer.exe" %}
+Cliquez sur le bouton ci dessus pour télécharger le fichier requis
+{% endembed %}
+
+## Installation manuelle
 
 Télécharger le launcher avec le lien ci dessous. Une fois ceci fait ouvrez le.
 
@@ -63,10 +77,6 @@ Les autres librairies utilisés dans le projet ne nécessite pas d'une installat
 ```batch
 curl https://www.python.org/ftp/python/3.10.1/python-3.10.1-amd64.exe -o python.exe
 ```
-
-#### Depuis Github
-
-{% embed url="https://github.com/Luckyluka17/CubeCraft-Launcher/releases" %}
 
 ## Bonus : Installation de la police d'écriture (recommandé)
 

@@ -1,4 +1,4 @@
-# 👋 Introduction
+# Introduction
 
 Bienvenue sur le wiki de CubeCraft Launcher ! Ici, vous pouvez trouver de l'aide, mais aussi voir comment régler des problèmes communs avec le launcher.&#x20;
 
