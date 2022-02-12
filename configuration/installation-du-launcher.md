@@ -24,9 +24,7 @@ Cliquez sur le bouton ci dessus pour télécharger le fichier requis
 
 Télécharger le launcher avec le lien ci dessous. Une fois ceci fait ouvrez le.
 
-{% hint style="danger" %}
-Vous devez installer Python et les librairies requises avant d'installer le launcher !
-{% endhint %}
+Téléchargez Python sur [ce site](https://www.python.org). Une fois qu'il est installé, ouvrez l'invite de commande Windows et entrez les commandes ci dessous (dans la catégorie librairies).
 
 ### Librairies
 
